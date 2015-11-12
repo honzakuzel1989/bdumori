@@ -1,4 +1,4 @@
 # bdumori
 
-(Bytové družstvo úmoří)[http://bdumori.byethost32.com/]
+[Bytové družstvo úmoří](http://bdumori.byethost32.com/)
 
