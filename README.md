@@ -1,5 +1,4 @@
 # bdumori
 
-Bytové družstvo úmoří  
-www.bdumori.moxo.cz
+(Bytové družstvo úmoří)[http://bdumori.byethost32.com/]
 
